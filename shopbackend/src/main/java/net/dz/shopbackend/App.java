@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+public void firsMethod(String name, String  Id){
+
+}
+public void secondMethod ()  {
+}
 }
